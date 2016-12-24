@@ -1,4 +1,0 @@
-#!/usr/bin/env ruby
-
-require 'HeyMan'
-puts HeyMan.hi(ARGV[0])
